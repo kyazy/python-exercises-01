@@ -1,5 +1,5 @@
 a = 10
-b -3 
+b = 3 
 
 print("Summe:", a + b)
 print("Differenz:", a - b)
